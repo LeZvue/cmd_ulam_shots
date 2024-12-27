@@ -1,0 +1,52 @@
+итого 296
+-rw-r--r-- 1 pkolesnikov pkolesnikov   312 дек 26 17:12 arith-loop.sh
+-rw-r--r-- 1 pkolesnikov pkolesnikov   206 дек 27 09:45 array-sort.sh
+-rw-r--r-- 1 pkolesnikov pkolesnikov   641 дек 17 16:25 case-menu.sh
+-rw-r--r-- 1 pkolesnikov pkolesnikov 27576 дек 26 15:48 dirlist-usr-bin.txt
+-rw-r--r-- 1 pkolesnikov pkolesnikov   343 дек 13 16:24 distros
+-rw-r--r-- 1 pkolesnikov pkolesnikov    78 дек 13 13:39 distros-name
+-rw-r--r-- 1 pkolesnikov pkolesnikov   196 дек 16 10:19 distros-nl.sed
+-rw-r--r-- 1 pkolesnikov pkolesnikov   149 дек 16 10:19 distros.sed
+-rw-r--r-- 1 pkolesnikov pkolesnikov     8 дек 13 14:49 file1
+-rw-r--r-- 1 pkolesnikov pkolesnikov     8 дек 13 14:27 file2
+-rw-r--r-- 1 pkolesnikov pkolesnikov   300 дек 18 09:01 file_info.sh
+-rw-r--r-- 1 pkolesnikov pkolesnikov   353 дек 16 10:32 fmt-info.txt
+-rw-r--r-- 1 pkolesnikov pkolesnikov     6 дек 26 17:20 foo.bc
+-rw-r--r-- 1 pkolesnikov pkolesnikov   165 дек 13 17:41 foo.html
+-rw-r--r-- 1 pkolesnikov pkolesnikov 20298 дек 16 11:17 foo.ps
+-rw-r--r-- 1 pkolesnikov pkolesnikov    16 дек 13 13:34 foo.txt
+-rw-r--r-- 1 pkolesnikov pkolesnikov   771 дек 27 09:24 hours.sh
+-rw-r--r-- 1 pkolesnikov pkolesnikov   731 дек 26 17:38 loan-calc.sh
+-rw-r--r-- 1 pkolesnikov pkolesnikov   375 дек 18 10:27 longest-word2.sh
+-rw-r--r-- 1 pkolesnikov pkolesnikov   360 дек 26 15:44 longest-word3.sh
+-rw-r--r-- 1 pkolesnikov pkolesnikov   374 дек 18 10:16 longest-word.sh
+-rw-r--r-- 1 pkolesnikov pkolesnikov 88980 дек 16 13:00 ls.ps
+-rw-r--r-- 1 pkolesnikov pkolesnikov   252 дек 26 16:43 modulo2.sh
+-rw-r--r-- 1 pkolesnikov pkolesnikov   254 дек 26 16:27 modulo.sh
+-rw-r--r-- 1 pkolesnikov pkolesnikov     0 дек 27 10:15 output.txt
+-rw-r--r-- 1 pkolesnikov pkolesnikov   123 дек 13 14:49 pathchfile
+-rw-r--r-- 1 pkolesnikov pkolesnikov  2326 дек 16 10:35 pip
+-rw-r--r-- 1 pkolesnikov pkolesnikov   397 дек 18 09:15 post-params3.sh
+-rw-r--r-- 1 pkolesnikov pkolesnikov   273 дек 17 17:40 post-param.sh
+-rw-r--r-- 1 pkolesnikov pkolesnikov    85 дек 17 10:55 read-default.sh
+-rw-r--r-- 1 pkolesnikov pkolesnikov   456 дек 17 11:36 read-ifs.sh
+-rw-r--r-- 1 pkolesnikov pkolesnikov   810 дек 17 12:17 read-menu.sh
+-rw-r--r-- 1 pkolesnikov pkolesnikov  1082 дек 17 12:02 read-validate.sh
+-rw-r--r-- 1 pkolesnikov pkolesnikov   947 дек 13 17:52 rus
+-rw-r--r-- 1 pkolesnikov pkolesnikov   149 дек 26 12:08 simple_counter.sh
+-rw-r--r-- 1 pkolesnikov pkolesnikov  2585 дек 26 12:20 sys_info_page.sh
+-rw-r--r-- 1 pkolesnikov pkolesnikov   112 дек 17 12:34 test.sh
+-rwxr-xr-x 1 pkolesnikov pkolesnikov   339 дек 17 16:10 trouble.sh
+-rw-r--r-- 1 pkolesnikov pkolesnikov   266 дек 26 15:54 ul-declare.sh
+-rw-r--r-- 1 pkolesnikov pkolesnikov   267 дек 26 16:00 ul-param.sh
+-rw-r--r-- 1 pkolesnikov pkolesnikov   105 дек 17 14:02 until-count.sh
+-rw-r--r-- 1 pkolesnikov pkolesnikov   106 дек 17 13:01 while-count.sh
+-rw-r--r-- 1 pkolesnikov pkolesnikov   979 дек 17 13:59 while-menu.sh
+-rw-r--r-- 1 pkolesnikov pkolesnikov   239 дек 17 14:15 while-read.sh
+Listing of foo.txt
+a	1	3
+b
+c
+a
+b
+c
